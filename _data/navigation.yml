@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "About"
+    url: /about/
+  - title: "VADL"
+    url: /vadl/
+  - title: "Additive Projects"
+    url: /additive/
+  - title: "Subtractive Projects"
+    url: /subtractive/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
