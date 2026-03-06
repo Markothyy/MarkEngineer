@@ -104,7 +104,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url                      : https://markothyy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+      url                      : https://github.com/Markothyy # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
     
 
 
@@ -113,7 +113,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url                      : https://markothyy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+      url                      : https://github.com/Markothyy # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
     
 
 
@@ -276,6 +276,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
